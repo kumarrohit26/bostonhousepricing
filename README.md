@@ -18,3 +18,5 @@ Install Requirements
 ```
 pip install -r requirements.txt
 ```
+
+Predict [Here](https://boston-house-price-26.herokuapp.com/)
